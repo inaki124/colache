@@ -1,0 +1,38 @@
+body{
+background-image: url(  );
+}
+
+#h1{
+font-family: Arial;
+font-style: italic;
+font-weight: 300;
+}
+
+h4{
+    font-family:'Courier New', Courier, monospace;
+}
+
+#ñ{
+ font-size:20;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ position: fixed;
+ bottom: 10;
+ width: 100%;
+ color: lightpink;
+
+}
+#camara{
+    width: 500px;
+    height:400px;
+}
+
+img{
+width: 300px;
+border-radius:10%;
+box-shadow: 10px 5px 5px lightpink;
+}
+
+
+img:hover{
+    border-radius:130px;
+}
